@@ -1,16 +1,11 @@
-### Hi there 👋
+### ✨ Hi, I'm Abubaker — a full-stack developer & product designer, currently working as a freelancer while also working on and bootstrapping my own products.
 
-<!--
-**AbubakerSaeed/abubakersaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Reach out to me at <abubaker.saeed.1996@gmail.com> for:
+  - Freelance inquries
+  - Hiring me as a full-time developer
+  - Saying hi
+  
+- 🌿 Plugs:
+  - [Products](https://abubakersaeed.com/products)
+  - [Work](https://abubakersaeed.com/work)
+  - [Blog](https://abubakersaeed.com/blog)
