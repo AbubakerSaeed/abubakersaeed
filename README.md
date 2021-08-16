@@ -5,7 +5,4 @@
   - Hiring me as a full-time developer
   - Saying hi
   
-- 🌿 Plugs:
-  - [Products](https://abubakersaeed.com/products)
-  - [Work](https://abubakersaeed.com/work)
-  - [Blog](https://abubakersaeed.com/blog)
+- 🌿 Plugs: [Projects](https://abubakersaeed.com/projects) | [Work](https://abubakersaeed.com/work) | [Blog](https://abubakersaeed.com/blog)
