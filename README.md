@@ -1,4 +1,4 @@
-### ✨ Hello, I'm Abubaker — a software engineer & product designer, currently working as a full-time developer while also working on and bootstrapping my own products.
+### ✨ Hello, I'm Abubaker — a data analyst, software engineer & product designer, currently working as a full-time developer while also working on and bootstrapping my products.
 
 - 🌱 Reach out to me at <abubaker.saeed.1996@gmail.com> for:
   - 🚀 Collaboration on an open-source project
