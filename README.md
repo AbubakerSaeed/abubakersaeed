@@ -1,12 +1,11 @@
 ### 🌇 About
 
-I'm a software engineer specializing in accessibility, performance, responsiveness, security, and progressive enhancement using modern workflows and technologies, apart from that I'm very passionate about crafting beautiful interfaces and interactive websites; currently, in the available time, I’m focusing on expanding my knowledge on subjects related to data analytics.
+I'm a software engineer specializing in accessibility, performance, security, and progressive enhancement using modern workflows and technologies; currently, in my free time, I’m focusing on expanding my knowledge of subjects related to data fields.
 
 ### 🌃 Additional
 
 - 🌱 Reach out to me at <abubaker.saeed.1996@gmail.com> for:
-  - 🚀 Collaboration on a project.
-  - 💼 Hiring me as a freelance developer.
+  - 🚀 Inquiring about anything.
   - 👋🏻 Saying hi.
   
-- 🌿 Plugs: [Products](https://abubakersaeed.com/products) | [Work](https://abubakersaeed.com/work) | [Blog](https://abubakersaeed.com/blog)
+- 🌿 Plugs: [Lab](https://abubakersaeed.com/lab) | [Blog](https://abubakersaeed.com/blog) | [Products](https://abubakersaeed.com/products)
