@@ -8,4 +8,4 @@ I'm a software engineer specializing in accessibility, performance, security, an
   - 🚀 Inquiring about anything.
   - 👋🏻 Saying hi.
   
-- 🌿 Plugs: [Lab](https://abubakersaeed.com/lab) | [Blog](https://abubakersaeed.com/blog) | [Products](https://abubakersaeed.com/products)
+- 🌿 Plugs: [Projects](https://abubakersaeed.com/projects) | [Blog](https://abubakersaeed.com/blog) | [Products](https://abubakersaeed.com/products)
