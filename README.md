@@ -1,9 +1,9 @@
 ### 🌇 About
 
-I'm a developer specializing in accessibility, performance, security, and progressive enhancement using modern workflows and technologies. In my free time, I’m focusing on expanding my knowledge of subjects related to data fields.
+I'm a developer who loves to study and take on difficult challenges to create impactful products. I'm currently expanding my skills and knowledge of subjects related to data engineering and analytics.
 
 ### 🌃 Additional
 
-- 🌱 Reach out to me at <abubaker.saeed.1996@gmail.com> for:
-  - 🚀 Inquiring about anything.
+- 🌱 Reach out to me at <abubaker.saeed@proton.me> for:
+  - 🚀 Inquiring about anything related to my field.
   - 👋🏻 Saying hi.
