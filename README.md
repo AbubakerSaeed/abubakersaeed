@@ -1,5 +1,1 @@
-Hi! I'm a developer who loves to study and take on difficult challenges to create impactful products. I'm currently expanding my skills and knowledge of subjects related to data engineering and analytics.
-
-Reach out to me at <hey.abs@proton.me> for:
-- Inquiring about anything related to my field.
-- Saying hi.
+Hey! I am a multi-talented person with a primary focus on being a developer, since 2016, with a business mindset, who loves to code, study, research, experiment, and take on difficult challenges.
