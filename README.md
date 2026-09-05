@@ -1,4 +1,4 @@
-Hey! I am a multi-talented person with a primary focus on being a developer, since 2016, who loves to code, study, research, experiment, and take on difficult challenges.
+Hey! I am a multi-talented person with a primary focus on being a developer, since 2016, with a business and founder mindset, who loves to code, study, research, experiment, and take on difficult challenges.
 
 🍁🍂 If you want to know more about me, you can do so by following these links (rest assured, all of these will take you to my site):
 
